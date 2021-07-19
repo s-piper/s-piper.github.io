@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.profilePic {
+  border-radius: 30px;
+  align-items: center;
+}
+
+.picRow {
+  padding: 5px;
+  background-color: #3f51b5;
+}
+
+.header {
+  /* background-color: #282c34; */
+  /* color: white; */
+  border-bottom: solid black;
+}
