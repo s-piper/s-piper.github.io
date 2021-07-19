@@ -25,6 +25,8 @@
 }
 
 .App-link {
+  display: flex;
+  text-align:left ;
   color: #61dafb;
 }
 
@@ -51,4 +53,25 @@
   /* background-color: #282c34; */
   /* color: white; */
   border-bottom: solid black;
+}
+
+.solo {
+  border: solid black;
+  display: block;
+  max-width: 400px;
+  margin-left: 10%;
+}
+
+.jazz {
+  display: block;
+  max-width: 200px;
+  margin-left: 10%;
+}
+
+.projects {
+  display: inline-flex;
+}
+
+.cardMargin {
+  margin: 10px;
 }

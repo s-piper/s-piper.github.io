@@ -1,3 +1,5 @@
+import Projects from './Projects';
+
 function Body() {
 
     return (
@@ -9,7 +11,13 @@ function Body() {
                 Life long learner currently working with React, Redux, Node, and SQL.
             </p>
 
-    
+
+            <div>
+                <h2>Projects</h2>
+
+            <Projects />
+
+            </div>
 
         </div>
     )

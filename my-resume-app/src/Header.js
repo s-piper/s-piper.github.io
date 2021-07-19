@@ -26,6 +26,7 @@ function Header () {
             <h2>Software Engineer</h2>
             <div className="picRow">
             <img className="profilePic" src="https://media-exp1.licdn.com/dms/image/C5603AQFDEWj7keeTRw/profile-displayphoto-shrink_200_200/0/1603992504718?e=1632355200&v=beta&t=scd8-rXv6pWZlAzO2dWQNM-nYR9L_mLQwot0MX81QAg"
+                alt=""
                 />
             </div>
             <h3>Very Employable</h3>
